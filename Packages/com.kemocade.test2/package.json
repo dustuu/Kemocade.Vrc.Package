@@ -4,9 +4,7 @@
   "version": "0.0.1",
   "description": "Testing vrchat packages",
   "gitDependencies": {},
-  "vpmDependencies": {
-    "com.vrchat.udonsharp": "^1.1.8"
-  },
+  "vpmDependencies": {},
   "legacyFolders": {},
   "legacyFiles": {},
   "type": "sample",
