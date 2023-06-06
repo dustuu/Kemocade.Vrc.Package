@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5136146375e9a0a498a72a0091b40cc1, type: 3}
-  m_Name: com.kemocade.test2.Editor
+  m_Name: com.kemocade.test3
   m_EditorClassIdentifier: 
-  sourceAssembly: {fileID: 5897886265953266890, guid: c088b36f258706943928a0e063669c41,
+  sourceAssembly: {fileID: 5897886265953266890, guid: ac7bd84600c90734d96b979b55179556,
     type: 3}

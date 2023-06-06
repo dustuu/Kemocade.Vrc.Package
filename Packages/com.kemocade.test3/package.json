@@ -1,0 +1,14 @@
+{
+  "name": "com.kemocade.test3",
+  "displayName": "com.kemocade.test3",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.8"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\conno\\Source\\Repos\\dustuu\\Kemocade.Vrc.Package\\Packages\\com.kemocade.test3"
+}

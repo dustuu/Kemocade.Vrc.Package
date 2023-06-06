@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.kemocade.test2": {
-      "version": "file:com.kemocade.test2",
+    "com.kemocade.test3": {
+      "version": "file:com.kemocade.test3",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.kemocade.test2/**
+    paths: Packages/com.kemocade.test3/**
 
 env:
-  packageName: "com.kemocade.test2"
+  packageName: "com.kemocade.test3"
 
 permissions:
   contents: write

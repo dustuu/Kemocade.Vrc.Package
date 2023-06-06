@@ -1,15 +1,15 @@
 {
-  "name": "com.kemocade.test2.Editor",
+  "name": "com.kemocade.test3.Editor",
   "references": [
     "VRC.SDK3",
     "VRC.SDK3.Editor",
     "VRC.SDKBase",
     "VRC.SDKBase.Editor",
-    "VRC.Udon",
+    "com.kemocade.test3",
     "UdonSharp.Editor",
     "UdonSharp.Runtime",
-    "com.vrchat.core.vpm-resolver.Editor",
-    "com.kemocade.test2"
+    "VRC.Udon",
+    "com.vrchat.core.vpm-resolver.Editor"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],
