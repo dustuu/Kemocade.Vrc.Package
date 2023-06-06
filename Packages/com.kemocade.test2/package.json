@@ -1,0 +1,15 @@
+{
+  "name": "com.kemocade.test2",
+  "displayName": "com.kemocade.test2",
+  "version": "0.0.1",
+  "description": "Testing vrchat packages",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "^1.1.8"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "sample",
+  "unity": "2019.4",
+  "unityRelease": "31f1"
+}

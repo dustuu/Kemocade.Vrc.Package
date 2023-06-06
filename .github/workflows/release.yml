@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/com.kemocade.test2/**
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "com.kemocade.test2"
 
 permissions:
   contents: write

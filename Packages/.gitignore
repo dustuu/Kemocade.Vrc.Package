@@ -1,5 +1,6 @@
 /*/
-!com.vrchat.core.*
+# is this needed?
+# !com.vrchat.core.*
 
 # Change this to match your new package name
-!com.vrchat.demo-template 
+!com.kemocade.test2
